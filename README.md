@@ -1,4 +1,4 @@
-![carbon](https://github.com/user-attachments/assets/78ecd04d-823f-40fb-929a-e30a6b1aaf70)
+![carbon](https://github.com/user-attachments/assets/119dd69e-8071-475f-87ee-9ca8642b0b00)
 
 I'm a student at UPN 'Veteran' Yogyakarta, always eager to learn and explore new things. Right now, I'm diving into the world of coding—starting with the basics and pushing myself to go deeper. Every line of code is a step toward something amazing!
 
