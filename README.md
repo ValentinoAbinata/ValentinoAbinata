@@ -1,4 +1,5 @@
-# Hello, World! I'm Valentino Abinata. 🚀
+![carbon](https://github.com/user-attachments/assets/78ecd04d-823f-40fb-929a-e30a6b1aaf70)
+
 I'm a student at UPN 'Veteran' Yogyakarta, always eager to learn and explore new things. Right now, I'm diving into the world of coding—starting with the basics and pushing myself to go deeper. Every line of code is a step toward something amazing!
 
 
