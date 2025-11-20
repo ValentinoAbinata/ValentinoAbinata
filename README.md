@@ -1,7 +1,6 @@
 ![carbon](https://github.com/user-attachments/assets/31b3830c-0776-4b20-b654-52d8a010a35d)
 
-I'm a student at UPN 'Veteran' Yogyakarta, always eager to learn and explore new things. Right now, I'm diving into the world of coding—starting with the basics and pushing myself to go deeper. Every line of code is a step toward something amazing!
-
+Informatics Undergraduate at Universitas Pembangunan Nasional “Veteran” Yogyakarta.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valentabinata) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valentino-abinata-69b5b227b) 
